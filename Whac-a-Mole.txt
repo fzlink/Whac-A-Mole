@@ -1,0 +1,9 @@
+Fazlı Bozatay-16011081
+Fatma Zehra Çetin-17011068
+
+_________________Whac-a-Mole____________________
+-Oyun köstebeklere tıklanarak oynanır.
+-Köstebekler ölünce animasyon çalışır.
+-100 puan kazanınca oyun kazanılır.
+-Space tuşuna basılarak oyun durdurulabilir.
+-3D, light, input picking, keyboard input ve animasyon eklenmiştir.
